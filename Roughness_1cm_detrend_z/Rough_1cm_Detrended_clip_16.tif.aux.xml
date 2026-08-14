@@ -1,0 +1,12 @@
+<PAMDataset>
+  <SRS dataAxisToSRSAxisMapping="1,2,3">PROJCRS["Custom_Local_Grid_3D",BASEGEOGCRS["Unknown",DATUM["Custom_Local_Datum",ELLIPSOID["Unit Sphere",1,0,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]]],CONVERSION["Identity",METHOD["Geographic/geocentric conversions"]],CS[Cartesian,3],AXIS["easting",west,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing",north,ORDER[2],LENGTHUNIT["metre",1]],AXIS["height",up,ORDER[3],LENGTHUNIT["metre",1]]]</SRS>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">81263.65625</MDI>
+      <MDI key="STATISTICS_MEAN">1427.77615794</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">6351.3010369092</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

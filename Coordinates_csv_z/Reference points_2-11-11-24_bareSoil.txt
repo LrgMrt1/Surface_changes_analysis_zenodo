@@ -1,0 +1,9 @@
+# CoordinateSystem: LOCAL_CS["Local Coordinates (m)",LOCAL_DATUM["Local Datum",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]
+#Label	X	Y	Z	Accuracy_X/Y/Z_(m)	Error_(m)	X_error	Y_error	Z_error	X_est	Y_est	Z_est
+point 2	5.410510	0.937568	-7.020313	0.005000							
+point 3	8.421918	0.971734	-7.307154	0.005000							
+point 4	10.574944	1.074589	-7.451684	0.005000							
+point 6	-4.213943	0.738847	-6.093056	0.005000							
+point 7	-1.417421	-2.321595	-1.789893	0.005000							
+point 8	-6.996219	-2.396372	-1.272623	0.005000							
+point 9	5.358104	-2.125339	-2.439296	0.005000							
