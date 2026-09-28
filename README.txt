@@ -4,8 +4,10 @@ SOIL SURFACE CHANGES ANALYSIS - first submission version
 
 ###############################
 
-MANUSCRIPT TITLE - FIRST SUBMISSION VERSION
-How terrestrial bioturbators affect soil surface changes and water infiltration patterns - A high resolution mesocosm study on earthworms and mole interaction 
+MANUSCRIPT TITLE
+
+Dual-species bioturbation shapes soil surface dynamics and water infiltration: a high-resolution mesocosm experiment on combined earthworm and mole activity
+
 
 AUTHORS
 Marta Loreggian1,2, Jantiene Baartman1*, Loes van Schaik1, Sebastián Bravo-Peña1,  Coen Ritsema1, Annegret Larsen2*
@@ -18,11 +20,9 @@ marta.loreggian@wur.nl
 
 
 ABSTRACT
-Animal bioturbation shapes terrestrial landscapes by altering water infiltration, storage, and soil surface dynamics. While moles (Talpa europaea) construct surface mounds and extensive tunnels, their primary prey - earthworm (i.e., Lumbricus terrestris) - simultaneously engineer deep burrow networks. Despite their interaction, the combined impact of these organisms as soil hydro-physical engineers remains poorly understood.
-To address this, we conducted a densely monitored mesocosm experiment (single box, W=0.5 m, L=2 m, H= 1 m), sequentially increasing bioturbation complexity across three treatments: bare soil (B), earthworms only (EW), and earthworms plus mole (EW+M). Ten rainfall events were applied at a constant intensity of 0.8 mm min⁻¹. Photogrammetry was performed before and after each event to quantify surface roughness and soil redistribution. Spatiotemporal soil moisture was monitored through 24 TEROS 10 sensors installed following a 3-dimension grid at 5, 15, 30, and 60 cm depths. 
-Results indicate that: (i) EW activity promoted fast infiltration to deeper soil layers, with response times of 39, 74, and 231 min at 15, 30, and 60 cm depth, respectively  (the shortest of all treatments), and the steepest wetting-front slopes (Smax up to 29.8 × 10⁻⁴ cm³cm⁻³min⁻¹ at 30 cm), indicative of preferential flow; (ii) mole activity increased surface roughness upslope by up to 511% relative to bare soil (vs. 110% for EW downslope), reflecting contrasting, species-specific spatial strategies — mole effects concentrated upslope, earthworm effects diffuse and downslope-oriented; and (iii) despite this pronounced surface disturbance (~4500 cm³ of soil excavated by the mole), deep-layer moisture response in EW+M remained close to EW levels (Δ ≈ 0.25 cm³cm⁻³ at 60 cm), with water storage instead concentrated near the surface (0–10 cm) 24 h after events. These results suggest that mole burrowing reorganizes the surface without proportionally enhancing deep infiltration. Additionally, high earthworm escape rates following mole introduction likely altered hydrological processes.
+Terrestrial bioturbators act as key soil hydro-physical engineers, yet how interacting species such as the earthworm Lumbricus terrestris and the mole Talpa europaea alter infiltration and surface change remains poorly quantified. In a densely monitored laboratory mesocosm (0.9 m³, 10% slope), we applied ten rainfall events (0.8 mm min⁻¹) across three sequential states: bare soil (B), earthworms only (EW), and earthworms plus mole (EW+M), combining event-based photogrammetry (1 cm DEM resolution) with minute-resolution soil moisture monitoring at four depths (24 sensors). Earthworms produced the fastest infiltration of all treatments and the steepest wetting fronts (Smax up to 29.8 × 10⁻⁴ cm³cm⁻³min⁻¹ at 30 cm). Mole tunnelling excavated ~4500 cm³ of soil and increased upslope surface roughness by up to 511% relative to bare soil. The fractions of water stored and drained did not differ among treatments, but its vertical distribution did: earthworms promoted deep drainage along the slope (45–90 cm), whereas combined mole–earthworm activity retained water near the surface (0–10 cm) and in deep galleries while bypassing intermediate depths. This study demonstrates that high-resolution spatial monitoring of species interactions is essential to identify surface–subsurface hydrological impact of bioturbation activity. However, to upscale these results, long-term field monitoring is needed to quantify the role of burrowing animals at the landscape scale, given their reciprocal feedback.
 
-DOI: https://doi.org/10.5281/zenodo.21932478
+DOI: ###
 
 PROGRAMS
 Python and Jupyter Notebook, version 3.12.4.
