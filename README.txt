@@ -6,7 +6,7 @@ SOIL SURFACE CHANGES ANALYSIS - first submission version
 
 MANUSCRIPT TITLE
 
-Dual-species bioturbation shapes soil surface dynamics and water infiltration: a high-resolution mesocosm experiment on combined earthworm and mole activity
+Dual-species bioturbation shapes soil surface dynamics and water infiltration: a high-resolution mesocosm experiment on earthworm-mole interaction
 
 
 AUTHORS
@@ -20,9 +20,9 @@ marta.loreggian@wur.nl
 
 
 ABSTRACT
-Terrestrial bioturbators act as key soil hydro-physical engineers, yet how interacting species such as the earthworm Lumbricus terrestris and the mole Talpa europaea alter infiltration and surface change remains poorly quantified. In a densely monitored laboratory mesocosm (0.9 m³, 10% slope), we applied ten rainfall events (0.8 mm min⁻¹) across three sequential states: bare soil (B), earthworms only (EW), and earthworms plus mole (EW+M), combining event-based photogrammetry (1 cm DEM resolution) with minute-resolution soil moisture monitoring at four depths (24 sensors). Earthworms produced the fastest infiltration of all treatments and the steepest wetting fronts (Smax up to 29.8 × 10⁻⁴ cm³cm⁻³min⁻¹ at 30 cm). Mole tunnelling excavated ~4500 cm³ of soil and increased upslope surface roughness by up to 511% relative to bare soil. The fractions of water stored and drained did not differ among treatments, but its vertical distribution did: earthworms promoted deep drainage along the slope (45–90 cm), whereas combined mole–earthworm activity retained water near the surface (0–10 cm) and in deep galleries while bypassing intermediate depths. This study demonstrates that high-resolution spatial monitoring of species interactions is essential to identify surface–subsurface hydrological impact of bioturbation activity. However, to upscale these results, long-term field monitoring is needed to quantify the role of burrowing animals at the landscape scale, given their reciprocal feedback.
+Terrestrial bioturbators act as key soil hydro-physical engineers, yet how interacting species such as the earthworm Lumbricus terrestris and the mole Talpa europaea alter infiltration and surface change remains poorly quantified. In a densely monitored laboratory mesocosm (0.9 m³, 10% slope), we applied ten rainfall events (0.8 mm min⁻¹) across three sequential states: bare soil (B), earthworms only (EW), and earthworms plus mole (EW+M), combining event-based photogrammetry (1 cm DEM resolution) with minute-resolution soil moisture monitoring at four depths (24 sensors , 5, 15, 30 and 60 cm depth). Earthworms produced the fastest infiltration of all treatments and the steepest wetting fronts (Smax up to 29.8 × 10⁻⁴ cm³cm⁻³min⁻¹ at 30 cm). Mole tunnelling excavated ~4500 cm³ of soil and increased upslope surface roughness by up to 511% relative to bare soil. The fractions of water stored and drained did not differ among treatments, but its vertical distribution did: earthworms promoted deep drainage along the slope (45–90 cm), whereas combined mole–earthworm activity retained water near the surface (0–10 cm) and in deep galleries while bypassing intermediate depths. This study demonstrates that high-resolution spatial monitoring of species interactions is essential to identify surface–subsurface hydrological impact of bioturbation activity. However, upscaling these insights requires long-term, landscape-scale monitoring to unravel the complex co-evolution of soil-hydrological processes and bioturbator behaviour.
 
-DOI: ###
+
 
 PROGRAMS
 Python and Jupyter Notebook, version 3.12.4.
